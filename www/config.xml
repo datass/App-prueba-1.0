@@ -3,17 +3,17 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.capsulaweb.escuela"
-        version   = "2.5.0">
+        id        = "com.pruebaequipo.escuela"
+        version   = "1.0.0">
 
-    <name>Escuela</name>
+    <name>Prueba_equipo</name>
 
     <description>
-        Aplicación de prueba en el curso de Agosto del 2013.
+        Aplicación de prueba en equipo
     </description>
 
-    <author href="http://capsulaweb.com" email="support@capsulaweb.com">
-        PhoneGap Team
+    <author href="http://teamap.com" email="support@teamap.com">
+        ap Team
     </author>
 
     <!--
